@@ -9,7 +9,7 @@ Boost your code quality with the power of AI. Built using GitHub Actions + OpenA
 
 ✅ Below is a live screenshot showing the action successfully triggered on a PR:
 
-![AI Code Review Screenshot](<paste_your_screenshot_link_here>)
+![AI Code Review Screenshot]((https://github.com/vansh-1410/ai-code-reviewer/issues/1#issue-3241873913))
 
 👉 **Live Demo PR:** [Click to view](https://github.com/vansh-1410/ai-code-reviewer-demo/pull/1)
 
